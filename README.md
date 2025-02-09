@@ -13,3 +13,9 @@ Stevie's favorite ice cream flavors:
 - Meal worm
 - Shrimp flakes
 - Sunflower seed
+
+
+Rare icecrean flavours
+- Ginger
+- Olive oil
+- Toasted coconut
